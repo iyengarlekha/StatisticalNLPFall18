@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: Baseline
+   first: Lekha
+   last: Iyengar
+email: li471@nyu.edu
+leaderboard: li471
