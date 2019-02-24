@@ -1,0 +1,165 @@
+Using base path: C:\\Users\\iyeng\\Downloads\\data4\\data5
+Using an additional 1000 training sentences.
+Running with data: miniTest
+Running with model: model2
+Training IBM Model 1..
+Iteration 1: 0.14299923277585758
+Iteration 2: 0.04795618778583112
+Iteration 3: 0.031094370217026997
+Iteration 4: 0.02369441404317551
+Iteration 5: 0.01884790760571687
+Iteration 6: 0.014921665192011704
+Iteration 7: 0.011558202908627194
+Iteration 8: 0.008714348540103334
+Iteration 9: 0.006389998426075413
+Iteration 10: 0.004560995216646311
+Iteration 11: 0.0031742230096058273
+Iteration 12: 0.002158880840611408
+Iteration 13: 0.0014391205550249935
+Iteration 14: 9.436040504233366E-4
+Iteration 15: 6.111330716207452E-4
+Iteration 16: 3.9284970381786246E-4
+Iteration 17: 2.5198779761924557E-4
+Iteration 18: 1.6221566278324398E-4
+Iteration 19: 1.0543365105811345E-4
+Iteration 20: 6.960831713056427E-5
+Iteration 21: 4.6945598304897933E-5
+Iteration 22: 3.24954621817576E-5
+Iteration 23: 2.315793708830859E-5
+Iteration 24: 1.7009703484874882E-5
+Iteration 25: 1.2863919051500653E-5
+Iteration 26: 9.989644306697061E-6
+Iteration 27: 7.936086462557982E-6
+Iteration 28: 6.4238207289180965E-6
+Iteration 29: 5.27803315202189E-6
+Iteration 30: 4.387800643513247E-6
+Iteration 31: 3.681359716140938E-6
+Iteration 32: 3.1111253081430644E-6
+Iteration 33: 2.6446214870001946E-6
+Iteration 34: 2.2589800354318864E-6
+Iteration 35: 1.937584797010655E-6
+Training done.
+Training IBM Model 2..
+Iteration 1: 2.1189674867875556
+Iteration 2: 0.3755580025484713
+Iteration 3: 0.33180557700611735
+Iteration 4: 0.11818305888932822
+Iteration 5: 0.03171228421783434
+Iteration 6: 0.001995964391967088
+Iteration 7: 2.666436237662483E-4
+Iteration 8: 6.646728855761513E-5
+Iteration 9: 1.6616895315621176E-5
+Iteration 10: 4.154224016573423E-6
+Training done.
+Alignment:
+[#]      | X
+   [ ]   | Y
+      [#]| Z
+---------'
+ A  B  C 
+
+Alignment:
+[#]   | X
+   [ ]| Y
+------'
+ A  B 
+
+Alignment:
+[#]   | Y
+      | W
+   [#]| Z
+------'
+ B  C 
+
+Alignment:
+[#]   | U
+   [ ]| V
+    # | W
+------'
+ D  F 
+
+Precision: 0.8571428571428571
+Recall: 0.6666666666666666
+AER: 0.25
+Using base path: C:\\Users\\iyeng\\Downloads\\data4\\data5
+Using an additional 1000 training sentences.
+Running with data: miniTest
+Running with model: model2
+Training IBM Model 1..
+Iteration 1: 0.07609424690719162
+Iteration 2: 0.04035573266859462
+Iteration 3: 0.03409913469857497
+Iteration 4: 0.027056115596325012
+Iteration 5: 0.020037088605463133
+Iteration 6: 0.014160676481835568
+Iteration 7: 0.009734600206681081
+Iteration 8: 0.006589347382476801
+Iteration 9: 0.004424851597872705
+Iteration 10: 0.002962628537219858
+Iteration 11: 0.00198597709568749
+Iteration 12: 0.0013382098681211576
+Iteration 13: 9.100920379688351E-4
+Iteration 14: 6.271130796030624E-4
+Iteration 15: 4.39258794515316E-4
+Iteration 16: 3.1341776506989033E-4
+Iteration 17: 2.2793894914893006E-4
+Iteration 18: 1.6881431808670372E-4
+Iteration 19: 1.2705075411148444E-4
+Iteration 20: 9.689505728673194E-5
+Iteration 21: 7.46590082419802E-5
+Iteration 22: 5.795718858304752E-5
+Iteration 23: 4.5221847536564204E-5
+Iteration 24: 3.539909393306683E-5
+Iteration 25: 2.7760920293747247E-5
+Iteration 26: 2.1789624968498723E-5
+Iteration 27: 1.7106676275398683E-5
+Iteration 28: 1.3428506018062696E-5
+Iteration 29: 1.0538513718522657E-5
+Iteration 30: 8.268841183186008E-6
+Iteration 31: 6.488096897144337E-6
+Iteration 32: 5.092777685452053E-6
+Iteration 33: 4.001057127148067E-6
+Iteration 34: 3.148146137118422E-6
+Iteration 35: 2.482741069571883E-6
+Iteration 36: 1.964254408375807E-6
+Training done.
+Training IBM Model 2..
+Iteration 1: 4.218686972126595
+Iteration 2: 0.19562686823457426
+Iteration 3: 0.1936208659551577
+Iteration 4: 0.17726785593124517
+Iteration 5: 0.14399122912815052
+Iteration 6: 0.03257982005942316
+Iteration 7: 6.527958459197505E-4
+Iteration 8: 1.8465795632074516E-7
+Training done.
+Alignment:
+[#]      | X
+   [#]   | Y
+      [#]| Z
+---------'
+ A  B  C 
+
+Alignment:
+[#]   | X
+   [#]| Y
+------'
+ A  B 
+
+Alignment:
+[#]   | Y
+      | W
+   [#]| Z
+------'
+ B  C 
+
+Alignment:
+[#]   | U
+   [#]| V
+      | W
+------'
+ D  F 
+
+Precision: 1.0
+Recall: 1.0
+AER: 0.0

@@ -1,0 +1,70 @@
+Using base path: C:\\Users\\iyeng\\Downloads\\data4\\data5
+Running with data: miniTest
+Running with model: model1
+Training IBM Model 1..
+Iteration 1: 0.14299923277585758
+Iteration 2: 0.04795618778583112
+Iteration 3: 0.031094370217026997
+Iteration 4: 0.02369441404317551
+Iteration 5: 0.01884790760571687
+Iteration 6: 0.014921665192011704
+Iteration 7: 0.011558202908627194
+Iteration 8: 0.008714348540103334
+Iteration 9: 0.006389998426075413
+Iteration 10: 0.004560995216646311
+Iteration 11: 0.0031742230096058273
+Iteration 12: 0.002158880840611408
+Iteration 13: 0.0014391205550249935
+Iteration 14: 9.436040504233366E-4
+Iteration 15: 6.111330716207452E-4
+Iteration 16: 3.9284970381786246E-4
+Iteration 17: 2.5198779761924557E-4
+Iteration 18: 1.6221566278324398E-4
+Iteration 19: 1.0543365105811345E-4
+Iteration 20: 6.960831713056427E-5
+Iteration 21: 4.6945598304897933E-5
+Iteration 22: 3.24954621817576E-5
+Iteration 23: 2.315793708830859E-5
+Iteration 24: 1.7009703484874882E-5
+Iteration 25: 1.2863919051500653E-5
+Iteration 26: 9.989644306697061E-6
+Iteration 27: 7.936086462557982E-6
+Iteration 28: 6.4238207289180965E-6
+Iteration 29: 5.27803315202189E-6
+Iteration 30: 4.387800643513247E-6
+Iteration 31: 3.681359716140938E-6
+Iteration 32: 3.1111253081430644E-6
+Iteration 33: 2.6446214870001946E-6
+Iteration 34: 2.2589800354318864E-6
+Iteration 35: 1.937584797010655E-6
+Training done.
+Alignment:
+[#]      | X
+   [#]   | Y
+      [#]| Z
+---------'
+ A  B  C 
+
+Alignment:
+[#]   | X
+   [#]| Y
+------'
+ A  B 
+
+Alignment:
+[#]   | Y
+      | W
+   [#]| Z
+------'
+ B  C 
+
+Alignment:
+[#] # | U
+   [ ]| V
+      | W
+------'
+ D  F 
+
+Precision: 0.8888888888888888
+Recall: 0.8888888888888888
+AER: 0.11111111111111116
