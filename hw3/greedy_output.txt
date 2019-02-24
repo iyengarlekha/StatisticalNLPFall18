@@ -1,0 +1,10 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.4\lib\idea_rt.jar=60162:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.4\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\iyeng\Downloads\code-fall2018-a3\code-fall2017-a3\out\production\code-fall2017-a3 nlp.assignments.POSTaggerTester -test validation
+Using base path: C:\Users\iyeng\Downloads\data3\data3
+Loading training sentences...done.
+Loading in-domain dev sentences...done.
+Loading out-of-domain dev sentences...done.
+Loading out-of-domain blind test sentences...done.
+Evaluating on in-domain data:.
+Tag Accuracy: 0.9382828512867228 (Unknown Accuracy: 0.8475798146240988)  Decoder Suboptimalities Detected: 479
+Evaluating on out-of-domain data:.
+Tag Accuracy: 0.8990829675344431 (Unknown Accuracy: 0.702660406885759)  Decoder Suboptimalities Detected: 205
